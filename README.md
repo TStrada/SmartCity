@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/TStrada/SmartCity/blob/main/Images/VFH.jpg" width="60%">
 </p>
-  <h6 align="center">a Data Management Project</h6>
+  <h6 align="center">a Lab in Smart Cities Project</h6>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#data">&nbsp; Data &nbsp;</a> |
