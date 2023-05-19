@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TStrada/Data-Management/blob/39df1ad03afa7845d1aee18b832b7405f528c6c2/Images/Music.jpg" width="60%">
+  <img src="https://github.com/TStrada/SmartCity/blob/main/Images/VFH.jpg" width="60%">
 </p>
   <h6 align="center">a Data Management Project</h6>
 <p align="center">
@@ -11,18 +11,17 @@
 
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
-This is a university project focused on acquisition and storing of data. In particular, the aim is to develop a music recommendation system for all users who want to learn an instrument. 
-In the first section, there are two functions for scraping information from websites and one for taking song information from Spotify, using API.
-Then there is an audio analysis for 3 instruments: bass, drums and piano. 
-In the third section, there is an analysis concerning dataset quality. Finally, there is the building of recommendation system based on Neo4j.
+In a growing world where land and its resources are becoming increasingly important, how can we combat food and energy waste for a more sustainable future? Vertical Hub farm is a geospatial analysis project aimed at identifying abandoned areas and buildings in the city of Milan that could be redeveloped with Hub for the vertical farm. 
+What is the vertical farm? This is an innovative technology that allows greenhouse cultivation with far higher yields than traditional agriculture, combating food and energy wastage.
+In this project, sustainability and accessibility issues are explored to integrate hubs into a smart city. 
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-You can find datasets used in the <a href="https://github.com/TStrada/Data-Management/tree/main/Dataset">Dataset</a> folder.<br> Audio file are not uploaded. 
+You can find datasets used in the <a href="https://github.com/TStrada/SmartCity/tree/3dae2e2b10967c304c2d4b2cbe3785950225e883/Data">Dataset</a> folder.<br> 
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find our presentation in the <a href="https://github.com/TStrada/Data-Management/tree/main/Report">Report</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/TStrada/SmartCity/tree/3dae2e2b10967c304c2d4b2cbe3785950225e883/Report">Report</a> folder.<br>
 
 
 <a name="aboutus"></a>
@@ -39,7 +38,7 @@ You can find our presentation in the <a href="https://github.com/TStrada/Data-Ma
   <a href = "https://github.com/TStrada"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 
-&#8860; &nbsp; **Sara Nocco**
+&#8860; &nbsp; **Alessandro Fasani**
 
 - *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
 - *Background*: 
