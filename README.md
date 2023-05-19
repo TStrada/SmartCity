@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
   <a href="#data">&nbsp; Data &nbsp;</a> |
+  <a href="#script">&nbsp; Script &nbsp;</a> |
   <a href="#presentation">&nbsp; Presentation &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
@@ -18,6 +19,10 @@ In this project, sustainability and accessibility issues are explored to integra
 <a name="data"></a>
 ## &#9741; &nbsp; Data
 You can find datasets used in the <a href="https://github.com/TStrada/SmartCity/tree/3dae2e2b10967c304c2d4b2cbe3785950225e883/Data">Dataset</a> folder.<br> 
+
+<a name="script"></a>
+## &#9741; &nbsp; Data
+You can find the python scripts developed here <a href="https://github.com/TStrada/SmartCity/tree/cd34a5725bc03aed077417b69b7328b3edc4702d/Script">Script</a> folder.<br> 
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
