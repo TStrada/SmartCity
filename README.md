@@ -31,6 +31,7 @@ You can find our presentation in the <a href="https://github.com/TStrada/SmartCi
 
 <a name="interactive map"></a>
 ## &#9741; &nbsp; Interactive map 
+<img src="https://github.com/TStrada/SmartCity/blob/main/Images/Screen_Map.png" width="60%">
 You can find our presentation map code <a href="https://github.com/TStrada/SmartCity/blob/main/Map_Hubs.html">here</a> folder.
 If you want to play with the interactive map check out the website here: https://TStrada.github.io/SmartCity/Map_Hubs.html
 
