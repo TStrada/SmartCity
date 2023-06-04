@@ -34,6 +34,7 @@ You can find our presentation in the <a href="https://github.com/TStrada/SmartCi
 You can find our presentation in the <a href="https://github.com/TStrada/SmartCity/blob/main/Images/Map_unique%20(1).html">interactive map</a> folder.
 <iframe src="Map_unique (1).html" height="500" width="500"></iframe><br>
 
+
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
 
