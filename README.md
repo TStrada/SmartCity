@@ -7,6 +7,7 @@
   <a href="#data">&nbsp; Data &nbsp;</a> |
   <a href="#script">&nbsp; Script &nbsp;</a> |
   <a href="#presentation">&nbsp; Presentation &nbsp;</a> |
+  <a href="#interactive map">&nbsp; Interactive map &nbsp;</a> |
   <a href="#aboutus">&nbsp; About us &nbsp;</a>
 </p>
 
@@ -21,13 +22,17 @@ In this project, sustainability and accessibility issues are explored to integra
 You can find datasets used in the <a href="https://github.com/TStrada/SmartCity/tree/3dae2e2b10967c304c2d4b2cbe3785950225e883/Data">Dataset</a> folder.<br> 
 
 <a name="script"></a>
-## &#9741; &nbsp; Data
+## &#9741; &nbsp; Script
 You can find the python scripts developed here <a href="https://github.com/TStrada/SmartCity/tree/cd34a5725bc03aed077417b69b7328b3edc4702d/Script">Script</a> folder.<br> 
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
 You can find our presentation in the <a href="https://github.com/TStrada/SmartCity/tree/3dae2e2b10967c304c2d4b2cbe3785950225e883/Report">Report</a> folder.<br>
 
+<a name="interactive map"></a>
+## &#9741; &nbsp; Interactive map 
+You can find our presentation in the <a href="https://github.com/TStrada/SmartCity/blob/main/Images/Map_unique%20(1).html">interactive map</a> folder.<br>
+<iframe src="Map_unique (1).html" height="500" width="500"></iframe>
 
 <a name="aboutus"></a>
 ## &#9741; &nbsp; About us
