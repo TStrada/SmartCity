@@ -33,6 +33,7 @@ You can find our presentation in the <a href="https://github.com/TStrada/SmartCi
 ## &#9741; &nbsp; Interactive map 
 You can find our presentation in the <a href="https://github.com/TStrada/SmartCity/blob/main/Map_Hubs.html">interactive map</a> folder.
 You can check out the website here: https://TStrada.github.io/SmartCity/
+You can explore this map [as its own web page here](Map_Hubs.html)
 
 
 <a name="aboutus"></a>
