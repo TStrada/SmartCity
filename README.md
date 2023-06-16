@@ -19,15 +19,15 @@ In this project, sustainability and accessibility issues are explored to integra
 
 <a name="data"></a>
 ## &#9741; &nbsp; Data
-You can find datasets used in the <a href="https://github.com/TStrada/SmartCity/tree/3dae2e2b10967c304c2d4b2cbe3785950225e883/Data">Dataset</a> folder.<br> 
+You can find datasets used in the <a href="https://github.com/TStrada/SmartCity/tree/46ba41de17779acfa8076f3cdf98bcb33bccbcfe/Data">Dataset</a> folder.<br> 
 
 <a name="script"></a>
 ## &#9741; &nbsp; Script
-You can find the python scripts developed here <a href="https://github.com/TStrada/SmartCity/tree/cd34a5725bc03aed077417b69b7328b3edc4702d/Script">Script</a> folder.<br> 
+You can find the python scripts developed here <a href="https://github.com/TStrada/SmartCity/tree/46ba41de17779acfa8076f3cdf98bcb33bccbcfe/Script">Script</a> folder.<br> 
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation 
-You can find our presentation in the <a href="https://github.com/TStrada/SmartCity/tree/3dae2e2b10967c304c2d4b2cbe3785950225e883/Report">Report</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/TStrada/SmartCity/tree/46ba41de17779acfa8076f3cdf98bcb33bccbcfe/Report">Report</a> folder.<br>
 
 <a name="interactive map"></a>
 ## &#9741; &nbsp; Interactive map 
