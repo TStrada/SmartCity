@@ -59,7 +59,7 @@ If you want to play with the interactive map check out the website here: https:/
  
   
 <p align = "center">
-<a href = ""><img src="https://github.com/TStrada/TStrada/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
+<a href = "https://www.linkedin.com/in/alessandro-fasani-36801b173"><img src="https://github.com/TStrada/TStrada/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
   <a href = "https://github.com/Alessandro-Fasani"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 <p align = "center">
