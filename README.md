@@ -54,9 +54,14 @@ If you want to play with the interactive map check out the website here: https:/
 &#8860; &nbsp; **Alessandro Fasani**
 
 - *Current Studies*: Data Science M.Sc. Student at Università degli Studi di Milano-Bicocca (UniMiB);
-- *Background*: 
-- <br>
-
+- *Background*: Bachelor degree in Economics and Business Administration at Università degli Studi di Milano-Bicocca (UniMiB).
+<br>
+ 
+  
+<p align = "center">
+<a href = ""><img src="https://github.com/TStrada/TStrada/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
+  <a href = "https://github.com/Alessandro-Fasani"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
+</p>
 <p align = "center">
 <!--   <a href = "https linkedin"><img src="link sub directory image linkedin " width = "2.3%"></a> -->
 </p>
